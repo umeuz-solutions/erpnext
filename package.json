@@ -1,9 +1,9 @@
 {
-  "name": "erpnext",
+  "name": "erpnext_basic",
   "description": "Open Source ERP System powered by the Frappe Framework",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/frappe/erpnext.git"
+    "url": "git+https://github.com/umeuz-solutions/erpnext_basic.git"
   },
   "homepage": "https://erpnext.com",
   "author": "Frappe Technologies Pvt. Ltd.",
