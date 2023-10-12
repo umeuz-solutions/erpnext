@@ -6,7 +6,7 @@ app_icon = "fa fa-th"
 app_color = "#e74c3c"
 app_email = "info@erpnext.com"
 app_license = "GNU General Public License (v3)"
-source_link = "https://github.com/umeuz-solutions/erpnext_basic"
+source_link = "https://github.com/frappe/erpnext"
 app_logo_url = "/assets/erpnext/images/erpnext-logo.svg"
 
 
